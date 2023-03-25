@@ -25,9 +25,11 @@ Use pip3 to install the required libraries.
 ## 2 Dimensional Art Examples
 
 ### Evolution Process
+
 <img src="media/images/evolutionProcess.png">
 
 ### Gene Types
+
 2 dimensional art can have different gene types.
 
 Reference Image:
@@ -48,6 +50,7 @@ Reference Image:
 </table>
 
 ## Visualizing 3 Dimensional Art
+
 Starting from perspective 1 (top left corner) the Organism is slightly rotated to the right until the camera is in the position to view the Organism from perspective 2 (bottom right corner). 
 
 <img src="media/images/3dRotate.png">
@@ -57,6 +60,7 @@ The image below offers a “top-down” view of the Organism to help demonstrate
 <img src="media/images/topDown.png" width="400" height="400">
 
 ## 3 Dimensional Art GUI
+
 <img src="media/images/3dGUI.png">
 
 1. The Live Display Counters: Provided the user with relevant realtime information about the digital art being displayed such as the: current generation, accuracy to each of the reference images and the total number of Genes.
@@ -64,3 +68,7 @@ The image below offers a “top-down” view of the Organism to help demonstrate
 3. Buttons: The “Pause” button allows the user to pause and run the execution of the algorithm on a specific generation to allow them to view the digital art uninterrupted. The “Screen Shot” button allows the user to take a picture of the digital art and save it directly to their downloads folder.
 4. Instructions: The instructions provide a guide on how to control the camera for the 3D scene.
 5. The Graph: Displays the real time rate of improvement of the digital art being generated. Providing the user with additional information that may be helpful with understanding how the genetic algorithm is able to approximate the given reference images.
+
+## References
+- Petr Kratochvil. Scarlet macaw isolated.
+- Medan Heritage. American bullfrog red-eyed tree frog png image
