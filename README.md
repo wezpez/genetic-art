@@ -53,6 +53,7 @@ Starting from perspective 1 (top left corner) the Organism is slightly rotated t
 <img src="media/images/3dRotate.png">
 
 The image below offers a “top-down” view of the Organism to help demonstrate the perspectives relative to the Organism.
+
 <img src="media/images/topDown.png" width="400" height="400">
 
 ## 3 Dimensional Art GUI
