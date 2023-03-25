@@ -3,7 +3,7 @@
 
 **IMPORTANT:** The "results" folder generated during the execution of the program will overwrite any previous results still stored in the project folder. To save the results, rename the folder or move it to a different directory.
 
-1. Navigate to the project folder
+1. Navigate to the genetic-art/src/2D directory
 
 2. Select one of the included reference images provided in the project file that you would like to use and rename it to "reference1.png". If you would like to use your own reference image, add your desired reference image to the project folder and rename it to "reference1.png". *The reference image you use must be of type PNG.*
 
