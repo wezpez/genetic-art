@@ -31,6 +31,7 @@ Use pip3 to install the required libraries.
 2 dimensional art can have different gene types.
 
 Reference Image:
+
 <img src="media/images/Frog.png" width="200" height="200">
 
 <table>
@@ -51,7 +52,7 @@ Reference Image:
 
 Starting from perspective 1 (top left corner) the Organism is slightly rotated to the right until the camera is in the position to view the Organism from perspective 2 (bottom right corner). The image below offers a “top-down” view of the Organism to help demonstrate the perspectives relative to the Organism.
 
-<img src="media/images/topDown.png" width="200" height="200">
+<img src="media/images/topDown.png" width="400" height="400">
 
 ## 3 Dimensional Art GUI
 <img src="media/images/3dGUI.png">
