@@ -1,11 +1,11 @@
 # 3 Dimensional Art
-## How to Create Digital Art Using two Reference Images
+## How to Create Digital Art Using Two Reference Images
 
 **IMPORTANT:** The "results" folder generated during the execution of the program will overwrite any previous results still stored in the project folder. To save the results, rename the folder or move it to a different directory.
 
-1. Navigate to the project folder
+1. Navigate to the genetic-art/src/3D directory
 
-2. Select two of the included reference images provided in the project file that you would like to use and rename them to "reference1.png" and "reference2.png". If you would like to use your own reference images, add your desired reference image to the project folder and rename them to "reference1.png" and "reference2.png". *The reference images you use must be of type PNG and be equally sized.*
+2. Select two of the included reference images provided in the project media files that you would like to use and rename them to "reference1.png" and "reference2.png". If you would like to use your own reference images, add your desired reference image to the project folder and rename them to "reference1.png" and "reference2.png". *The reference images you use must be of type PNG and be equally sized.*
 
 3. At this point the python file is ready to be executed using the default Control Variables. If you would like to use the default Control Variable skip to Step 6.
 
