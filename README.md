@@ -48,10 +48,11 @@ Reference Image:
 </table>
 
 ## Visualizing 3 Dimensional Art
+Starting from perspective 1 (top left corner) the Organism is slightly rotated to the right until the camera is in the position to view the Organism from perspective 2 (bottom right corner). 
+
 <img src="media/images/3dRotate.png">
 
-Starting from perspective 1 (top left corner) the Organism is slightly rotated to the right until the camera is in the position to view the Organism from perspective 2 (bottom right corner). The image below offers a “top-down” view of the Organism to help demonstrate the perspectives relative to the Organism.
-
+The image below offers a “top-down” view of the Organism to help demonstrate the perspectives relative to the Organism.
 <img src="media/images/topDown.png" width="400" height="400">
 
 ## 3 Dimensional Art GUI
