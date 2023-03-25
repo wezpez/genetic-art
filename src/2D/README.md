@@ -1,4 +1,21 @@
 # 2 Dimensional Art
+
+## Project Requirements:
+
+### Python Version Required:
+- Python 3.8.1 (or higher)
+
+### Libraries Required:
+- PIL (Python Image Library)
+- Vpython
+- numpy
+- multiprocessing
+- random
+- os
+- datetime
+- copy
+
+
 ## How to Create Digital Art Using a Single Reference Image
 
 **IMPORTANT:** The "results" folder generated during the execution of the program will overwrite any previous results still stored in the project folder. To save the results, rename the folder or move it to a different directory.
@@ -21,20 +38,3 @@
 
 9. The program will stop executing once it has reached the maximum generations. To stop the program before press *Control + C* on your keyboard in the terminal window.
 
-
-## Project Requirements:
-
-### Python Version Required:
-- Python 3.8.1 (or higher)
-
-### Libraries Required:
-- PIL (Python Image Library)
-- Vpython
-- numpy
-- multiprocessing
-- random
-- os
-- datetime
-- copy
-
-Use pip3 to install the required libraries.
